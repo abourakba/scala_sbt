@@ -16,3 +16,6 @@ args.foreach( s => { println(s) } ) // le foreach prend une fonction en parametr
 args.foreach( println  ) // Ici on est encore plus concis.
 
 
+
+
+
